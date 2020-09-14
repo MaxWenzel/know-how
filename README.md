@@ -12,5 +12,5 @@ Tips and tricks for developers
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [MicroServices](https://martinfowler.com/articles/microservices.html)
 - [MicroFrontends](https://martinfowler.com/articles/micro-frontends.html)
-
+- [Chaos Engineering](https://principlesofchaos.org/)
 
