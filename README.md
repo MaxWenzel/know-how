@@ -17,4 +17,6 @@ Tips and tricks for developers
 - [MicroServices](https://martinfowler.com/articles/microservices.html)
 - [MicroFrontends](https://martinfowler.com/articles/micro-frontends.html)
 - [Chaos Engineering](https://principlesofchaos.org/)
-
+- [Package-by-feature](https://phauer.com/2020/package-by-feature/)
+- [Package-by-feature](http://www.javapractices.com/topic/TopicAction.do?Id=205)
+- [Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
