@@ -20,3 +20,7 @@ Tips and tricks for developers
 - [Package-by-feature](https://phauer.com/2020/package-by-feature/)
 - [Package-by-feature](http://www.javapractices.com/topic/TopicAction.do?Id=205)
 - [Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
+
+## Misc
+
+- [Principles and Mental Models for Software Developers](https://www.adamwaselnuk.com/principles-and-mental-models):
