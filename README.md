@@ -23,4 +23,5 @@ Tips and tricks for developers
 
 ## Misc
 
-- [Principles and Mental Models for Software Developers](https://www.adamwaselnuk.com/principles-and-mental-models):
+- [Principles and Mental Models for Software Developers](https://www.adamwaselnuk.com/principles-and-mental-models)
+- [DevDocs](https://devdocs.io/): combines multiple API documentations in a fast, organized, and searchable interface.
