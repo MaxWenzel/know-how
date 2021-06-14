@@ -20,6 +20,7 @@ Tips and tricks for developers
 - [Package-by-feature](https://phauer.com/2020/package-by-feature/)
 - [Package-by-feature](http://www.javapractices.com/topic/TopicAction.do?Id=205)
 - [Why field injection is evil](http://olivergierke.de/2013/11/why-field-injection-is-evil/)
+- [The Vietnam of Computer Science](https://blogs.tedneward.com/post/the-vietnam-of-computer-science/): The Object-Relational Impedence Mismatch: To say that objects and relational data sets are somehow constructed differently is typically not a surprise to any developer who’s ever used both; except in extremely simplistic situations, it becomes fairly obvious to recognize that the way in which a relational data store is designed is subtly–and yet profoundly–different than how an object system is designed.
 
 ## Misc
 
