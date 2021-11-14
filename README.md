@@ -6,6 +6,11 @@ Tips and tricks for developers
 - [Optimize JavaScript Execution](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
 - [9 simple steps to optimize your web application performance](https://dev.to/vijayjoshi/optimizing-single-page-and-web-applications-performance-4cnn)
 
+## SQL
+
+- [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
+- [10 SQL Tricks That You Didn’t Think Were Possible](https://blog.jooq.org/10-sql-tricks-that-you-didnt-think-were-possible/)
+
 ## AWS
 
 - [AWS Video Catalog](https://awsvideocatalog.com/): a website that collects all the official Amazon videos related to each individual AWS Service and categorizes them in a way that makes it easy to find what you are looking for.
